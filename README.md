@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<li>📫 How to reach me: kishnayc@gmail.com</li>
+<li>📫 How to reach me: <a>kishnayc@gmail.com</a></li>
