@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- <a href="https://dribbble.com/shots/14733298-GitHub-Dark-Mode/attachments/6435066?mode=media"> -->
-    <img src="https://dribbble.com/shots/14733298-GitHub-Dark-Mode/attachments/6435066?mode=media" width="100%" height="250px">
+    <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="100%" height="250px">
   
     <h1><b>Hi 👋, I am Avi Mahajan</b></h1>
     </br>
