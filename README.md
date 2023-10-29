@@ -21,8 +21,7 @@ Here are some ideas to get you started:
   <!-- <a href="https://dribbble.com/shots/14733298-GitHub-Dark-Mode/attachments/6435066?mode=media"> -->
     <img src="https://dribbble.com/shots/14733298-GitHub-Dark-Mode/attachments/6435066?mode=media" alt="GitHub Dark Mode Icon" width="100" height="100">
   
-    <br>
-    <h2><b>Hi 👋, I am Avi Mahajan</b></h2>
+    <h1><b>Hi 👋, I am Avi Mahajan</b></h1>
     </br>
 </p>
 
