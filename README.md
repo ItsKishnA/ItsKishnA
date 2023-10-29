@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- <a href="https://dribbble.com/shots/14733298-GitHub-Dark-Mode/attachments/6435066?mode=media"> -->
-    <img src="https://dribbble.com/shots/14733298-GitHub-Dark-Mode/attachments/6435066?mode=media" alt="GitHub Dark Mode Icon" width="100" height="100">
+    <img src="https://dribbble.com/shots/14733298-GitHub-Dark-Mode/attachments/6435066?mode=media" width="100%" height="250px">
   
     <h1><b>Hi 👋, I am Avi Mahajan</b></h1>
     </br>
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 Connect me:
 - <a href="mailto:kishnayc@gmail.com">Mail</a>
-- : <a href="https://www.linkedin.com/in/avi-mahajan-62a10a247/">LinkedIn</a>
-- : <a href="https://twitter.com/Kishna2401">Twitter</a>
+- <a href="https://www.linkedin.com/in/avi-mahajan-62a10a247/">LinkedIn</a>
+- <a href="https://twitter.com/Kishna2401">Twitter</a>
