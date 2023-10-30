@@ -6,9 +6,12 @@
 <hr/>
 - I am a passionate and lifelong learner.
 <br/>
+<br/>
 <a href="https://www.discord.com/users/el.avi.ator"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label"  target="_blank"/>
 <a href="https://www.linkedin.com/in/avi-mahajan-62a10a247/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label" target="_blank"/></a>
 <a href="https://twitter.com/Kishna2401"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label" target="_blank"/></a>
+<br/>
+<br/>
 Connect with me :
 <ul>
   <li><a href="mailto:kishnayc@gmail.com">Mail</a></li>
