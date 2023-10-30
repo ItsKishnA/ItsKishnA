@@ -5,7 +5,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
 <hr/>
 - I am a passionate and lifelong learner.
-
+![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
 Connect with me :
 <ul>
   <li><a href="mailto:kishnayc@gmail.com">Mail</a></li>
