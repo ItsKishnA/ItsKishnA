@@ -6,6 +6,8 @@
 <hr/>
 - I am a passionate and lifelong learner.
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
+![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
+![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label=)
 Connect with me :
 <ul>
   <li><a href="mailto:kishnayc@gmail.com">Mail</a></li>
