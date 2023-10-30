@@ -4,7 +4,7 @@
 </div>
 <hr/>
 - I am a passionate and lifelong learner.
-![](https://komarev.com/ghpvc/?username=ItsKishnA)
+<img src="https://komarev.com/ghpvc/?username=ItsKishnA"/>
 Connect with me on:
 <ul>
   <li><a href="mailto:kishnayc@gmail.com">Mail</a></li>
