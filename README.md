@@ -20,3 +20,4 @@ Connect with me :
 </ul>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=gotham" alt="ItsKishnA" />
+![Avi's github stats](https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=dracula&hide=stars,issues)
