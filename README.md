@@ -21,3 +21,10 @@ Connect with me :
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=gotham"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=dracula&hide=stars,issues"/>
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ItsKishnA&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+<!--buy me a coffee...-->
+<a href="https://www.buymeacoffee.com/el.AvI.ator" target="_blank"><img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Buy+Me+A+Coffee&style=for-the-badge" height=25px/></a>
