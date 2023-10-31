@@ -27,4 +27,4 @@ Connect with me :
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ItsKishnA&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <!--buy me a coffee...-->
-<a href="https://www.buymeacoffee.com/el.AvI.ator" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a  target="_blank" href="https://www.buymeacoffee.com/el.AvI.ator"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
