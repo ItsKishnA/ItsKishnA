@@ -28,4 +28,4 @@ Connect with me :
 
 <!--buy me a coffee...-->
 <a href="https://www.buymeacoffee.com/el.AvI.ator" target="_blank"><img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Buy+Me+A+Coffee&style=for-the-badge" height=25px/></a>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad){:target="_blank"}
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ItsKishnA){:target="_blank"}
