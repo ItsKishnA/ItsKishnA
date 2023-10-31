@@ -18,3 +18,5 @@ Connect with me :
   <li><a href="https://www.linkedin.com/in/avi-mahajan-62a10a247/">LinkedIn</a></li>
   <li><a href="https://twitter.com/Kishna2401">Twitter</a></li>
 </ul>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=gotham" alt="ItsKishnA" />
