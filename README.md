@@ -18,12 +18,15 @@ Connect with me :
   <li><a href="https://www.linkedin.com/in/avi-mahajan-62a10a247/">LinkedIn</a></li>
   <li><a href="https://twitter.com/Kishna2401">Twitter</a></li>
 </ul>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=gotham"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=dracula&hide=stars,issues"/>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=dracula&hide=stars,issues"/>
+</div>
+![](https://github-readme-stats.vercel.app/api?username=priyanshi1282&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi1282&theme=react&hide_border=false)
 
 📊 &nbsp;**This week I spent my time on**
+
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=el_avi_ator&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
