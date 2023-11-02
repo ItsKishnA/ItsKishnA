@@ -18,19 +18,22 @@ Connect with me :
   <li><a href="https://www.linkedin.com/in/avi-mahajan-62a10a247/">LinkedIn</a></li>
   <li><a href="https://twitter.com/Kishna2401">Twitter</a></li>
 </ul>
+<!--
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=gotham"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=dracula&hide=stars,issues"/>
 </div>
+-->
 
 ## GITHUB STATS
-![](https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dracula)(https://git.io/streak-stats)
 
 📊 &nbsp;**This week I spent my time on**
 
-
+<!--
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=el_avi_ator&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+-->
 
 <!--buy me a coffee tag at right-->
 <a href="https://www.buymeacoffee.com/el.AvI.ator"><img align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
