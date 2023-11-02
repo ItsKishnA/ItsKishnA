@@ -9,8 +9,6 @@
 
 ## Connect with me :
 <div>
-  <br/>
-  <br/>
   <a href="https://www.discord.com/users/el.avi.ator" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label"/></a>
   <a href="https://www.linkedin.com/in/avi-mahajan-62a10a247/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label"/></a>
   <a href="https://twitter.com/Kishna2401" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label"/></a>
@@ -46,6 +44,8 @@
 -->
 
 <!--buy me a coffee tag at right-->
-<a href="https://www.buymeacoffee.com/el.AvI.ator">
-  <img align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" />
-</a>
+<div>
+  <a href="https://www.buymeacoffee.com/el.AvI.ator">
+    <img align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" />
+  </a>
+</div>
