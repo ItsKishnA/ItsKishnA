@@ -7,6 +7,7 @@
 
 - I am a passionate and lifelong learner.
 
+## Connect with me :
 <div>
   <br/>
   <br/>
@@ -16,13 +17,13 @@
   <br/>
   <br/>
 </div>
-
-## Connect with me :
+<!--
 <ul>
   <li><a href="mailto:kishnayc@gmail.com">Mail</a></li>
   <li><a href="https://www.linkedin.com/in/avi-mahajan-62a10a247/">LinkedIn</a></li>
   <li><a href="https://twitter.com/Kishna2401">Twitter</a></li>
 </ul>
+-->
 <!--
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=gotham"/>
@@ -35,7 +36,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dracula)(https://git.io/streak-stats)
 
 <div>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark"/></a>
 </div>
 
 
