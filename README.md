@@ -22,6 +22,8 @@ Connect with me :
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=gotham"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=dracula&hide=stars,issues"/>
 </div>
+
+## GITHUB STATS
 ![](https://github-readme-stats.vercel.app/api?username=priyanshi1282&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi1282&theme=react&hide_border=false)
 
