@@ -24,8 +24,8 @@ Connect with me :
 </div>
 
 ## GITHUB STATS
-![](https://github-readme-stats.vercel.app/api?username=priyanshi1282&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi1282&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ItsKishnA&theme=react&hide_border=false)
 
 📊 &nbsp;**This week I spent my time on**
 
