@@ -32,7 +32,7 @@
 ## GITHUB STATS
 ![](https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 <div>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dracula"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=darcula"/></a>
 </div>
 
 
