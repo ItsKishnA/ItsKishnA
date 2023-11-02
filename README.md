@@ -30,8 +30,8 @@
 -->
 
 ## GITHUB STATS
-![](https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-<div>
+<div display="flex" flex-direction="column">
+  ![](https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark"/></a>
 </div>
 
