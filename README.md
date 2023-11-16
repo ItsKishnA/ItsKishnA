@@ -7,8 +7,8 @@
 
 - I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
 
-## Connect with me :
-<div>
+<h2 align="center">Connect with me :</h2>
+<div align="center">
   <a href="https://www.discord.com/users/el.avi.ator" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label"/></a>
   <a href="https://www.linkedin.com/in/avi-mahajan-62a10a247/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label"/></a>
   <a href="https://twitter.com/Kishna2401" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label"/></a>
