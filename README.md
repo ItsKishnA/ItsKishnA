@@ -7,6 +7,22 @@
 
 - I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
 
+```Programming Languages```
+
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=light)](https://skills.thijs.gg)
+
+```Front-End Technologies```
+
+[![My Skills](https://skills.thijs.gg/icons?i=react,html,css&theme=light&perline=6)](https://skills.thijs.gg)
+
+```Databases```
+
+[![My Skills](https://skills.thijs.gg/icons?i=mysql,postgresql&theme=light)](https://skills.thijs.gg)
+
+```Tools & Platforms```
+
+[![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=light&perline=6)](https://skills.thijs.gg)
+
 <h2 align="center">Connect with me :</h2>
 <div align="center">
   <a href="https://www.discord.com/users/el.avi.ator" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label"/></a>
