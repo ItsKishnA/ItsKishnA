@@ -17,7 +17,7 @@
 
 ```Databases```
 
-[![My Skills](https://skills.thijs.gg/icons?i=mysql,postgresql&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mysql,postgresql,oracle&theme=light)](https://skills.thijs.gg)
 
 ```Tools & Platforms```
 
