@@ -3,10 +3,9 @@
   <h1 align="center">Hi 👋, I am <b>Avi Mahajan</b></h1>
   <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
 </div>
+<hr/>
 
 > Life-Long Learner | Creative-Coder
-
-<hr/>
 
 - I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
 
