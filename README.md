@@ -5,7 +5,9 @@
 </div>
 <hr/>
 
-> Nex.plorer | Code.vator | Learn.ophiile
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa)
+
+<!-- > Nex.plorer | Code.vator | Learn.ophiile -->
 
 - I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
 
