@@ -11,6 +11,8 @@
 
 - I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
 
+<h1>hi</h1>
+
 ```Programming Languages```
 
 [![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=light)](https://skills.thijs.gg)
