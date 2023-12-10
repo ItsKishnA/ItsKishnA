@@ -1,17 +1,20 @@
 <div style="display: flex; flex-direction: column;">
   <img align="left" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="100"/>
   <h1 align="center">Hi 👋, I am <b>Avi Mahajan</b></h1>
-  <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
+  <div style="display :flex; flex-direction: row;">
+    
+    <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
+    
+    <hr/>
+    
+    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa)
+  </div>
 </div>
-<hr/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa)
 
 <!-- > Nex.plorer | Code.vator | Learn.ophiile -->
 
 - I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
-
-<h1>hi</h1>
 
 ```Programming Languages```
 
