@@ -5,7 +5,7 @@
 
 <div style="display :flex; flex-direction: row;">
   <img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa"/>
-  <hr/>
+  <hr align="center"/>
   <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
 </div>
 
