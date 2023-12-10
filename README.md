@@ -5,7 +5,7 @@
 
 <div style="display :flex; flex-direction: column; border: 3px;">
   <img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa" border="2px" width="200vw"/>
-  <hr align="center"/>
+  <div style="border-bottom:1px solid black"></div>
   <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
 </div>
 
