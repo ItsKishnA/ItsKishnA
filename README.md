@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I am <b>Avi Mahajan</b></h1>
 </div>
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa&align=right)
 
 <div style="display :flex; flex-direction: row;">
   <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
