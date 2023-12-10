@@ -15,6 +15,8 @@
   I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
 </p>
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ```Programming Languages```
 
 [![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=light)](https://skills.thijs.gg)
