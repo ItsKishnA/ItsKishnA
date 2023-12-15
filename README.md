@@ -18,11 +18,11 @@
 
 ```Programming Languages```
 
-![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=light)
+![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=dark)
 
 ```Front-End Technologies```
 
-![My Skills](https://skills.thijs.gg/icons?i=react,html,css&theme=light&perline=6)
+![My Skills](https://skills.thijs.gg/icons?i=react,html,css&theme=light&perline=4)
 
 ```Databases```
 
