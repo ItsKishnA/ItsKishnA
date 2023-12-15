@@ -60,7 +60,7 @@
 <br/>
 
 <h2 align="center">GITHUB STATS</h2>
-<div style="display: flex; flex-direction: column;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dark&hide=prs,contribs&card_width=400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark&card_width=400"/>
 </div>
