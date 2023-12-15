@@ -18,20 +18,20 @@
 
 ```Programming Languages```
 
-![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=dark&perline=4)
 
 ```Front-End Technologies```
 
-![My Skills](https://skills.thijs.gg/icons?i=react,html,css&theme=light&perline=4)
+![My Skills](https://skills.thijs.gg/icons?i=react,html,css&theme=dark&perline=4)
 
 ```Databases```
 
-![My Skills](https://skills.thijs.gg/icons?i=mysql,postgresql,oracle&theme=light)
+![My Skills](https://skills.thijs.gg/icons?i=mysql,postgresql,oracle&theme=dark&perline=4)
 
 ```Tools & Platforms```
 
-<div><img src="https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=light&perline=4"/></div>
-<!-- ![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=light&perline=6) -->
+<div><img src="https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=4"/></div>
+<!-- ![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=6) -->
 
 <h2 align="center">Connect with me :</h2>
 <div align="center">
