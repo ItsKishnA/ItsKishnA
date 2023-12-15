@@ -61,8 +61,8 @@
 
 <h2 align="center">GITHUB STATS</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dark&hide=prs,contribs&card_width=450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=neon&card_width=450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dark&hide=prs,contribs&rank_icon=github&card_width=450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark&card_width=450"/>
 </div>
 
 <!--
