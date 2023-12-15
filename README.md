@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I am <b>Avi Mahajan</b></h1>
 </div>
 
-<div style="display:flex; align-items:center;">
+<div style="display:flex; align-items:center; border: 1px solid #ccc;">
   <div><img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa"/></div>
   <div><img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/></div>
 </div>
