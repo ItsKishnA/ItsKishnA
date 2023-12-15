@@ -61,8 +61,8 @@
 
 <h2 align="center">GITHUB STATS</h2>
 <div style="display: flex; flex-direction: column;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dark&include_all_commits=true&count_private=true&hide=prs,contribs"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dark&include_all_commits=true&count_private=true&hide=prs,contribs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark"/>
 </div>
 
 <!--
