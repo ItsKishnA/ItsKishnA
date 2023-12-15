@@ -3,12 +3,13 @@
   <h1 align="center">Hi 👋, I am <b>Avi Mahajan</b></h1>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div style="display:flex; align-items:center; border: 2px solid #ccc;">
   <div><img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa"/></div>
   <div><img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/></div>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
