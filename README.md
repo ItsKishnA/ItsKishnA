@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I am <b>Avi Mahajan</b></h1>
 </div>
 
-<div style="display:flex; align-items:center; border: 1px solid #ccc;">
+<div style="display:flex; align-items:center; border: 2px solid #ccc;">
   <div><img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa"/></div>
   <div><img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/></div>
 </div>
@@ -18,19 +18,19 @@
 
 ```Programming Languages```
 
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=light)]
+![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=light)
 
 ```Front-End Technologies```
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,html,css&theme=light&perline=6)]
+![My Skills](https://skills.thijs.gg/icons?i=react,html,css&theme=light&perline=6)
 
 ```Databases```
 
-[![My Skills](https://skills.thijs.gg/icons?i=mysql,postgresql,oracle&theme=light)]
+![My Skills](https://skills.thijs.gg/icons?i=mysql,postgresql,oracle&theme=light)
 
 ```Tools & Platforms```
 
-[![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=light&perline=6)]
+![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=light&perline=6)
 
 <h2 align="center">Connect with me :</h2>
 <div align="center">
