@@ -30,7 +30,7 @@
 
 ```Tools & Platforms```
 
-<div><img src="https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=light&perline=6"/></div>
+<div><img src="https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=light&perline=4"/></div>
 <!-- ![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=light&perline=6) -->
 
 <h2 align="center">Connect with me :</h2>
