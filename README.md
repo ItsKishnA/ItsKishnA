@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I am <b>Avi Mahajan</b></h1>
   <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
 </div>
-<br/>
+<hr/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="display:flex; flex-direction:column;">
