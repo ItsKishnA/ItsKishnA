@@ -67,8 +67,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark&card_width=450"/>
 </div>
 
-📊 &nbsp;**This week I spent my time on**
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=el_avi_ator&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<!-- 📊 &nbsp;**This week I spent my time on**
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=el_avi_ator&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsKishnA&bg_color=212121&color=ffffff&line=56c5e1&point=ecb641&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
