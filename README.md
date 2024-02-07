@@ -18,19 +18,21 @@
 </p>
 </section>
 
-```Programming Languages```
+<br/>
+
+`Programming Languages`
 
 ![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=dark&perline=4)
 
-```Front-End Technologies```
+`Front-End Technologies`
 
 ![My Skills](https://skills.thijs.gg/icons?i=react,html,css&theme=dark&perline=4)
 
-```Databases```
+`Databases`
 
 ![My Skills](https://skills.thijs.gg/icons?i=mysql,postgresql,oracle&theme=dark&perline=4)
 
-```Tools & Platforms```
+`Tools & Platforms`
 
 <div><img src="https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=4"/></div>
 <!-- ![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=6) -->
@@ -65,10 +67,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark&card_width=450"/>
 </div>
 
-<!--
 📊 &nbsp;**This week I spent my time on**
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=el_avi_ator&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
--->
 
 <br/>
 
@@ -78,3 +78,10 @@
     <img align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" />
   </a>
 </div>
+
+<!--
+name rzzashakeri
+repo beautify-github-profile
+feat 43.Github Widgetbox
+feat 62.techstack generator
+-->
