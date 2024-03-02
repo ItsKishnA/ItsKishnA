@@ -68,7 +68,8 @@
 <h2 align="center">GITHUB STATS</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dark&hide=prs,contribs&rank_icon=github&card_width=450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark&card_width=450"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark&card_width=450"/> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ItsKishnA&theme=dark&card_width=450" alt="GitHub Streak" /></a>
 </div>
 
 <!-- 📊 &nbsp;**This week I spent my time on**
