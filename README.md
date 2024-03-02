@@ -30,7 +30,7 @@
 
 `Back-End Technologies`
 
-![My Skills](https://skills.thijs.gg/icons?i=node&theme=dark&perline=4)
+![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=dark&perline=4)
 
 `Databases`
 
