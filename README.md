@@ -28,6 +28,10 @@
 
 ![My Skills](https://skills.thijs.gg/icons?i=react,html,css&theme=dark&perline=4)
 
+`Back-End Technologies`
+
+![My Skills](https://skills.thijs.gg/icons?i=node&theme=dark&perline=4)
+
 `Databases`
 
 ![My Skills](https://skills.thijs.gg/icons?i=mysql,postgresql,oracle&theme=dark&perline=4)
