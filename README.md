@@ -3,8 +3,8 @@
   <h1 align="center">Hi 👋, I am <b>Avi Mahajan</b></h1>
   <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
 </div>
-<hr/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <hr/> -->
 
 <div style="display:flex;">
   <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa" alt=" Nex.plorer | Code.vator | Learn.ophile " />
