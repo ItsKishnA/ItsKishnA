@@ -1,19 +1,16 @@
 <section>
-<div>
-  <img align="left" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="100"/>
-  <h1 align="right">Hi 👋, I am <b>Avi Mahajan</b></h1>
-  <div">
-    <!-- <img align="left" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-    <hr/>
+  <div>
+    <img align="left" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="100"/>
+    <h1 align="right">Hi 👋, I am <b>Avi Mahajan</b></h1>
     <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
   </div>
-</div>
-<!-- <hr/> -->
+  <hr/>
 
-<div style="display:flex;">
-  <img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa" alt=" Nex.plorer | Code.vator | Learn.ophile " />
-</div>
+  <div style="display:flex;">
+    <img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa" alt=" Nex.plorer | Code.vator | Learn.ophile " />
+  </div>
 </section>
+
 <br/>
 
 <section>
@@ -53,20 +50,6 @@
   <br/>
 </div>
 
-<!--
-<ul>
-  <li><a href="mailto:kishnayc@gmail.com">Mail</a></li>
-  <li><a href="https://www.linkedin.com/in/avi-mahajan-62a10a247/">LinkedIn</a></li>
-  <li><a href="https://twitter.com/Kishna2401">Twitter</a></li>
-</ul>
--->
-<!--
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=gotham"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&show_icons=true&theme=dracula&hide=stars,issues"/>
-</div>
--->
-
 <br/>
 
 <h2 align="center">GITHUB STATS</h2>
@@ -79,7 +62,7 @@
 <!-- 📊 &nbsp;**This week I spent my time on**
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=el_avi_ator&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsKishnA&theme=react-dark&area=true&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Avi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsKishnA&theme=react-dark&area=true&hide_border=true&hide_title=true)]
 
 <br/>
 
