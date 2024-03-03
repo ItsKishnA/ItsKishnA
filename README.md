@@ -1,13 +1,15 @@
-<div style="display: flex; flex-direction: column;">
+<div>
   <img align="left" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="100"/>
-  <h1 align="center">Hi 👋, I am <b>Avi Mahajan</b></h1>
-  <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
+  <h1 align="right">Hi 👋, I am <b>Avi Mahajan</b></h1>
+  <div">
+    <img align="left" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <img align="right" src="https://komarev.com/ghpvc/?username=ItsKishnA&color=red&label=Profile+Views&style=for-the-badge" height=25px/>
+  </div>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <hr/> -->
 
 <div style="display:flex;">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa" alt=" Nex.plorer | Code.vator | Learn.ophile " />
+  <img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa" alt=" Nex.plorer | Code.vator | Learn.ophile " />
 </div>
 
 <br/>
