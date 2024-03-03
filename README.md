@@ -7,7 +7,7 @@
   <hr/>
 
   <div style="display:flex;">
-    <img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa" alt=" Nex.plorer | Code.vator | Learn.ophile " />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=%20Nex.plorer;%20Code.vator;%20Learn.ophile&font=Comfortaa" alt=" Nex.plorer | Code.vator | Learn.ophile " />
   </div>
 </section>
 
