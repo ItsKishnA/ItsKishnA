@@ -14,9 +14,13 @@
 <br/>
 
 <section>
-<p>
-  I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
-</p>
+  <p>
+    I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
+  </p>
+  
+  <p>
+    In addition to my passion for cloud computing, I thrive as a React developer, utilizing its powerful capabilities to craft engaging user interfaces and seamless experiences. My proficiency extends to Node.js, empowering me to build robust backend systems that complement my frontend endeavors. Currently, I'm immersed in a thrilling project: the development of a mobile game entirely crafted using JavaScript. This project not only showcases my technical prowess but also exemplifies my dedication to pushing the boundaries of innovation in the tech realm. As I navigate through the intricacies of cloud computing and delve into the depths of coding, I remain steadfast in my pursuit of excellence, eager to uncover new horizons and embrace the ever-evolving landscape of technology.
+  </p>
 </section>
 
 <br/>
