@@ -27,19 +27,19 @@
 
 `Programming Languages`
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,js,python&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,js,python&theme=dark&perline=4)]
 
 `Front-End Technologies`
 
-![My Skills](https://skills.thijs.gg/icons?i=react,html,css&theme=dark&perline=4)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=4)]
 
 `Back-End Technologies`
 
-![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=dark&perline=4)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark&perline=4)]
 
 `Databases`
 
-![My Skills](https://skills.thijs.gg/icons?i=mysql,postgresql,oracle&theme=dark&perline=4)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,oracle&theme=dark&perline=4)]
 
 `Tools & Platforms`
 
