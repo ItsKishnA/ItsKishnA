@@ -29,7 +29,7 @@
 
 <!-- ![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=dark&perline=4) -->
 
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=dark&perline=4)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,python&theme=dark)](https://skills.thijs.gg)
 
 `Front-End Technologies`
 
