@@ -15,11 +15,7 @@
 
 <section>
   <p>
-
-    ```c++
     I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
-    ```
-
   </p>
   
   <p>
@@ -49,8 +45,6 @@
 
 <div><img src="https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=4"/></div>
 <!-- ![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=6) -->
-
-## Connect with me :
 
 <h2 align="center">Connect with me :</h2>
 <div align="center">
