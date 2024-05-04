@@ -13,13 +13,13 @@
 
 <br/>
 
-
-:waving_hand:
-
-
 <section>
   <p>
+
+    ```c++
     I am a dedicated lifelong learner on a quest to master cloud computing and explore the latest tech trends. Embracing the dynamic world of coding, I continuously expand my expertise in cloud technology and other cutting-edge innovations, forging a unique path towards a tech-savvy future.
+    ```
+
   </p>
   
   <p>
@@ -30,8 +30,6 @@
 <br/>
 
 `Programming Languages`
-
-:waving_hand:
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,js,python&theme=dark&perline=4)
 
