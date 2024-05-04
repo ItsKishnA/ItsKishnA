@@ -13,7 +13,9 @@
 
 <br/>
 
+
 :waving_hand:
+
 
 <section>
   <p>
@@ -28,6 +30,8 @@
 <br/>
 
 `Programming Languages`
+
+:waving_hand:
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,js,python&theme=dark&perline=4)
 
