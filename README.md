@@ -43,8 +43,9 @@
 
 `Tools & Platforms`
 
-<div><img src="https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=4"/></div>
-<!-- ![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=6) -->
+<!-- <div><img src="https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=4"/></div> -->
+
+![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=6)
 
 <h2 align="center">Connect with me :</h2>
 <div align="center">
@@ -56,7 +57,7 @@
 
 <br/>
 
-<h2 align="center">GITHUB STATS</h2>
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dark&hide=prs,contribs&rank_icon=github&card_width=450"/>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark&card_width=450"/> -->
