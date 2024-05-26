@@ -45,7 +45,7 @@
 
 <!-- <div><img src="https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=4"/></div> -->
 
-![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=6)
+![My Skills](https://skillicons.dev/icons?i=powershell,vscode,git,github,aws,figma,photoshop&theme=dark&perline=6)
 
 <h2 align="center">Connect with me :</h2>
 <div align="center">
