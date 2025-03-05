@@ -67,9 +67,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ItsKishnA&theme=dark&card_width=450)](https://git.io/streak-stats)
-
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ItsKishnA&theme=dark&card_width=450)](https://git.io/streak-stats)
 
 <!-- 📊 &nbsp;**This week I spent my time on**
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=el_avi_ator&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
