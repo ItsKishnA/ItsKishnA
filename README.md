@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dark&hide=prs,contribs&rank_icon=github&card_width=450"/>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark&card_width=450"/> -->
-  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ItsKishnA&theme=dark&card_width=450" alt="GitHub Streak" /></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ItsKishnA&theme=dark&card_width=450" alt="GitHub Streak" /></a>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ItsKishnA1&theme=dark&hide=prs,contribs&rank_icon=github&card_width=450)
 
