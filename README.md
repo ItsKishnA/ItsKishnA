@@ -61,15 +61,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItsKishnA&theme=dark&hide=prs,contribs&rank_icon=github&card_width=450"/>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKishnA&theme=dark&card_width=450"/> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ItsKishnA&theme=dark&card_width=450" alt="GitHub Streak" /></a>
+  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ItsKishnA&theme=dark&card_width=450" alt="GitHub Streak" /></a> -->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ItsKishnA1&theme=dark&hide=prs,contribs&rank_icon=github&card_width=450)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=ItsKishnA1&theme=dark&hide=prs,contribs&rank_icon=github&card_width=450)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ItsKishnA&theme=dark&card_width=450)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ItsKishnA&theme=dark&card_width=450)](https://git.io/streak-stats) -->
 
 <!-- 📊 &nbsp;**This week I spent my time on**
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=el_avi_ator&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
