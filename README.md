@@ -65,6 +65,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ItsKishnA1&theme=dark&hide=prs,contribs&rank_icon=github&card_width=450)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
 <!-- 📊 &nbsp;**This week I spent my time on**
