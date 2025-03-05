@@ -69,7 +69,7 @@
 
 </div>
 
-<img src="https://leetcode-status.vercel.app/api/iyehah?theme=transparent&logo=true&custom_title=Iyehah%20Hacen&logo_color=theme"/>
+<img src="https://leetcode-status.vercel.app/api/el_avi_ator?theme=transparent&logo=true&custom_title=Iyehah%20Hacen&logo_color=theme"/>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ItsKishnA&theme=dark&card_width=450)](https://git.io/streak-stats) -->
 
